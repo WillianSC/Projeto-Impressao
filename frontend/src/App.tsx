@@ -7,6 +7,8 @@ import Perfil from "@/pages/Perfil/Perfil";
 import ImpressaoEnviar from "./pages/ImpressaoEnviar";
 import HistoricoImpressao from "./pages/HistoricoImpressao";
 
+
+
 function App() {
   return (
     <Routes>

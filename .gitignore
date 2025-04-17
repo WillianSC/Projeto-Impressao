@@ -28,3 +28,17 @@ dist-ssr/
 # Sistema
 Thumbs.db
 Desktop.ini
+
+# Ambiente virtual
+venv/
+
+# Banco de dados local
+instance/
+
+# Arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Configs do VSCode e outros IDEs
+.vscode/
